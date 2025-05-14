@@ -24,8 +24,9 @@ const TAB_DATA = [
     content: (
       <ul className="list-disc pl-2">
         <li>Fullstack Java - EBAC</li>
-        <li>Análise e desenvolvimento de sistemas - Faesa</li>
+        <li>Análise e desenvolvimento de sistemas - FAESA</li>
         <li>Programa Oracle Next Education F2 T6 Back-end</li>
+        <li>Programa Oracle Next Education F2 T7 Front-end</li>
       </ul>
     ),
   },
@@ -40,6 +41,7 @@ const TAB_DATA = [
         <li>Formação Java Web: crie aplicações usando Spring Boot</li>
         <li>Formação Java e Spring Boot T4 - ONE</li>
         <li>Formação Java e Orientação a Objetos T4 - ONE</li>
+        <li>Formação React T7 - ONE</li>
         <li>Java Básico - Loiane Groner</li>
       </ul>
     ),
